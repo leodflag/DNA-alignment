@@ -24,3 +24,7 @@
     取出從第n個索引值到最後的字串.
     2.str.find("") # 找出""內的字符，回傳最先發現的索引值，否則回傳-1
     3.str.count("", start= 0,end=len(string)) # 數""內的字串出現次數
+
+## 結果
+![image](https://github.com/leodflag/Python_DNA-alignment/blob/master/DNA_test1.png)
+![image](https://github.com/leodflag/Python_DNA-alignment/blob/master/DNA_test2.png)
